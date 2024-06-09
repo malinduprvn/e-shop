@@ -1,5 +1,7 @@
 import React from "react";
 
+// kd ajsdlSA Kajkjc
+
 const Banner = ({ data }) => {
   return (
     <div className="min-h-[550px] flex justify-center items-center py-12">
